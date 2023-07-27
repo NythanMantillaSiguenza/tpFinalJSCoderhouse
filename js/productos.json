@@ -1,0 +1,122 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo 01",
+        "imagen": "🧥",
+        "categoria": {
+            "nombre": "Abrigo",
+            "id": "abrigo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo 02",
+        "imagen": "🧥",
+        "categoria": {
+            "nombre": "Abrigo",
+            "id": "abrigo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo 03",
+        "imagen": "🧥",
+        "categoria": {
+            "nombre": "Abrigo",
+            "id": "abrigo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo 04",
+        "imagen": "🧥",
+        "categoria": {
+            "nombre": "Abrigo",
+            "id": "abrigo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera 01",
+        "imagen": "👕",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "remera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera 02",
+        "imagen": "👕",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "remera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera 03",
+        "imagen": "👕",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "remera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera 04",
+        "imagen": "👕",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "remera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalon 01",
+        "imagen": "👖",
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalon 02",
+        "imagen": "👖",
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalon 03",
+        "imagen": "👖",
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalon 04",
+        "imagen": "👖",
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalon"
+        },
+        "precio": 1000
+    }
+]
